@@ -1,7 +1,7 @@
 # LIONEL ANDRÉS MESSI
 Lionel Messi es uno de los mejores futbolistas de todos los tiempos y es tan bueno que debutó en el Barça a los 17 años, en 2004.
 Messi rompió muchos récords a lo largo de su vida, por ejemplo, superando los goles de un club entero o metiendo más de 50 goles en una
-temporada.
+temporada. Estvo solamente en tres equpos, que son, Barça, PSG y Inter de Miami, aparte de eso jugó en su seleccion Argentina.
 
 ![image](https://github.com/user-attachments/assets/1e464cdc-6e6b-422b-849d-b7f6e60ecf13)
 
@@ -35,5 +35,6 @@ Individualmente, ganó 44, que son:
 ![image](https://github.com/user-attachments/assets/ba83f935-d90d-4bce-95a4-f6499c6920dc)
 ![image](https://github.com/user-attachments/assets/599085d8-d37e-4aaf-bb7a-3f4d4143a601)
 ![image](https://github.com/user-attachments/assets/de2a5a49-25db-4310-98bb-061dc89cf82f)
+
 
 
